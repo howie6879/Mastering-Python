@@ -8,7 +8,7 @@
 
 #### 2.1.Mastering Python
 
-- [Mastering Python 01.md](https://github.com/howie6879/Mastering-Python/blob/master/Mastering%20Pandas/Mastering%20Pandas%2001.md)
+- [Mastering Python 01.md](https://github.com/howie6879/Mastering-Python/blob/master/Mastering%20Python/Mastering%20Python%2001.ipynb)
 
 #### 2.2.Mastering Pandas
 
